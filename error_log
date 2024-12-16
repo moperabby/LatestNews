@@ -1,0 +1,2 @@
+[06-Aug-2018 11:08:13 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/themesbazar/public_html/newsfresh/wp-content/themes/newsfresh/header.php on line 3
+[14-Mar-2019 22:38:48 UTC] PHP Fatal error:  Call to undefined function show_category_list() in /home/newssitedesign/public_html/latestnews/wp-content/themes/LatestNews/index.php on line 2
